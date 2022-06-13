@@ -5,9 +5,23 @@
 
    <h3 align="Right">V1.19.6.9</h3>
    
+   # New in Application:
+   Neumorphism 3D designs in Android.
+   
+    Draw a shadow background on widgets for Neumorphism. Supported on the following widgets:
+        ViewGroup: CardView
+        View: Button, FloatingActionButton, ImageView
+    Draw a text shadow on TextView for Neumorphism.
+
+![Neumorphism](https://user-images.githubusercontent.com/97843190/173354941-51a5dca4-e0d9-4320-b34f-0bc24dfe6474.jpg)
+
+   
    # What's new:
      ☄️ Improved user experience & Layout.
-        Bugs Fix.
+     create with Neumorphism
+     Bugs Fix.
+     
+     
 
  # Download Now:
 <p align="center">
@@ -139,4 +153,17 @@ Jan 16, 2022
   
 # Rate the app:
 Please consider rating the app if you are satisfied with the product. Thank you.
+       
+# License: 
+  Copyright 2020 SOUP 
+  Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
+  See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
+  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
+  you may not use this file except in compliance with the License. 
+  You may obtain a copy of the License at 
+  http://www.apache.org/licenses/LICENSE-2.0 
+  Unless required by applicable law or agreed to in writing, software distributed under 
+  the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+  either express or implied. See the License for the specific language governing permissions and limitations under the License."
+ 
   
