@@ -1,8 +1,7 @@
 <p align="center">
   <h1 align="center">InStory : Post & Story Saver</h1>
   
-  <h3>InStory helps you save Video, Photo, Storys, reels and Highlight from Instagram
-Download from Facebook & Whatsapp</h3>
+  <h3>InStory helps you save Video, Photo, Storys, reels and Highlight from Instagram.Download from Facebook & Whatsapp</h3>
 
    <h3 align="Right">V1.19.6.9</h3>
    
