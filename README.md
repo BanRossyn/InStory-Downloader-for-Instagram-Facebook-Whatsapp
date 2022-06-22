@@ -3,7 +3,7 @@
   
   <h3>InStory helps you save Video, Photo, Storys, reels and Highlight from Instagram.Download from Facebook & Whatsapp</h3>
 
-   <h3 align="Right">V1.19.6.9</h3>
+   <h3 align="Right">V2.0.6.19</h3>
    
    # New in Application:
    Neumorphism 3D designs in Android.
@@ -17,9 +17,10 @@
 
    
    # What's new:
-     ☄️ Improved user experience & Layout.
-     create with Neumorphism
-     Bugs Fix.
+     😃 Bug Fixed.
+    ⬇️ Fast Loading.
+    🔥 Font Size Problem Solved.
+    ☄️ Improved user experience.
      
      
 
@@ -105,10 +106,10 @@ No data collected
 
   
 <h3 align="left">Updated on</h3>
-Jun 9, 2022
+19 Jun 2022
 
 <h3 align="left">Version</h3>
-1.19.6.9
+2.0.6.19
 
 <h3 align="left">Requires Android</h3>
 7.0 and up
